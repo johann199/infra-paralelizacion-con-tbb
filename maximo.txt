@@ -1,0 +1,6 @@
+secuencial 69.4 ms max 2147483646
+prof 0 hilos 1 0.0 ms max 0 aceleracion inf
+prof 1 hilos 2 0.0 ms max 0 aceleracion inf
+prof 2 hilos 4 0.0 ms max 0 aceleracion inf
+prof 3 hilos 8 0.0 ms max 0 aceleracion inf
+prof 4 hilos 16 0.0 ms max 0 aceleracion inf

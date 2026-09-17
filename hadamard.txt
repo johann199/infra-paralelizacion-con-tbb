@@ -1,0 +1,16 @@
+hilos 1 n 1000000 0.0 ms suma 0
+hilos 2 n 1000000 0.0 ms suma 0
+hilos 4 n 1000000 0.0 ms suma 0
+hilos 8 n 1000000 0.0 ms suma 0
+hilos 1 n 100000000 0.0 ms suma 0
+hilos 2 n 100000000 0.0 ms suma 0
+hilos 4 n 100000000 0.0 ms suma 0
+hilos 8 n 100000000 0.0 ms suma 0
+tbb hilos 4 grano 1 n 1000000 0.0 ms suma 0
+tbb hilos 1 grano 1 n 100000000 0.0 ms suma 0
+tbb hilos 2 grano 1 n 100000000 0.0 ms suma 0
+tbb hilos 4 grano 1 n 100000000 0.0 ms suma 0
+tbb hilos 4 grano 1 n 100000000 0.0 ms suma 0
+tbb hilos 4 grano 1000 n 100000000 0.0 ms suma 0
+tbb hilos 4 grano 100000 n 100000000 0.0 ms suma 0
+tbb hilos 4 grano 10000000 n 100000000 0.0 ms suma 0

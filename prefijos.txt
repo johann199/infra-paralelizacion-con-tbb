@@ -1,0 +1,2 @@
+secuencial 4033.8 ms ultimo 2000320
+dos_pasadas 0.0 ms ultimo 0 bloques 4 DIFIEREN
